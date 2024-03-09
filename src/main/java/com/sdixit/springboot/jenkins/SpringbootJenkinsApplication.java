@@ -15,6 +15,7 @@ public class SpringbootJenkinsApplication {
 	public void init() {
 		log.info("Application started...........");
 		log.info("Application started logger added...........");
+		log.info("Application started new logger added...........");
 		
 	}
 	public static void main(String[] args) {
